@@ -1,0 +1,13 @@
+Assets
+Credits & Support
+Debug
+Webhook_Library
+index.html
+Install.cmd
+README.md
+requirement.txt
+wehbook_manager.py
+Credits & Support\direct_link.cmd
+Debug\all_files_list.txt
+Debug\debug.py
+Assets\preview.png
